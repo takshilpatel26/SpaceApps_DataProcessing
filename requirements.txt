@@ -1,0 +1,12 @@
+numpy
+rasterio
+./dependencies/gdal-3.11.1-cp313-cp313-win_amd64.whl
+esa_snappy
+jpy
+scipy
+scikit-image
+matplotlib
+pillow
+tqdm
+pathlib
+dataclasses
